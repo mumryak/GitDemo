@@ -18,6 +18,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         print("new feature Y added")
         
+        print("Hello world!")
+        
         return true
     }
 
