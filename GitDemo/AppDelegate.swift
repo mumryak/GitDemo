@@ -16,6 +16,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         print("newFeatureY!")
         
+        print("new feature Y added")
+        
         return true
     }
 
